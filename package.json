@@ -1,0 +1,16 @@
+{
+  "name": "shap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@img/sharp-linux-x64": "^0.33.0",
+    "sharp": "^0.33.0"
+  }
+}
